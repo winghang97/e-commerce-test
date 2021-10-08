@@ -67,3 +67,9 @@ admin@example.com (Admin)
 john@example.com (User)
 123456
 ```
+
+## Things to fix/add
+
+- [x] Add Shop features
+- [] Create shop in admin feature
+- [] Fix create products in admin
