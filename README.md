@@ -70,6 +70,6 @@ john@example.com (User)
 
 ## Things to fix/add
 
-- [x] Add Shop features
-- [] Create shop in admin feature
-- [] Fix create products in admin
+[x] Add Shop features
+[] Create shop in admin feature
+[] Fix create products in admin
